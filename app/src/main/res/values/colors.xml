@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Additional Colors -->
+    <color name="red">#FFFF0000</color>
+    <color name="green">#FF00FF00</color>
+    <color name="blue">#FF0000FF</color>
+    <color name="yellow">#FFFFFF00</color>
+    <color name="orange">#FFFFA500</color>
+    <color name="purple">#FF800080</color>
+    <color name="gray">#FF808080</color>
+
+    <!-- Light Variations -->
+    <color name="lightBlack">#33000000</color>
+    <color name="lightWhite">#33FFFFFF</color>
+    <color name="lightRed">#33FF0000</color>
+    <color name="lightGreen">#3300FF00</color>
+    <color name="lightBlue">#330000FF</color>
+    <color name="lightYellow">#33FFFF00</color>
+    <color name="lightOrange">#33FFA500</color>
+    <color name="lightPurple">#33800080</color>
+    <color name="lightGray">#33808080</color>
+
+    <!-- Dark Variations -->
+    <color name="darkBlack">#CC000000</color>
+    <color name="darkWhite">#CCFFFFFF</color>
+    <color name="darkRed">#CCFF0000</color>
+    <color name="darkGreen">#CC00FF00</color>
+    <color name="darkBlue">#CC0000FF</color>
+    <color name="darkYellow">#CCFFFF00</color>
+    <color name="darkOrange">#CCFFA500</color>
+    <color name="darkPurple">#CC800080</color>
+    <color name="darkGray">#CC808080</color>
+
+    <!-- Custom Colors -->
+    <color name="customColor1">#FF3366CC</color>
+    <color name="customColor2">#FFFF6347</color>
+</resources>
